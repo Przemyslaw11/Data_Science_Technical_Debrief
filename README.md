@@ -1,6 +1,6 @@
-# Data Science Intern - 2023 Summer Internship Program - CR
+# Data Science Intern Technical Debrief 
 
-Problem Statement:
+# Problem Statement:
 Suppose you're trying to help a company determine which computers to purchase. The company has been able to
 
 pull utilization data by employee that classifies users into 3 bins, depending on how much they use their computer in
