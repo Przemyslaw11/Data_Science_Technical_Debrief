@@ -1,4 +1,4 @@
-# Data Science Intern Technical Debrief 
+# Data_Science_Technical_Debrief
 
 # Problem Statement:
 Suppose you're trying to help a company determine which computers to purchase. The company has been able to
